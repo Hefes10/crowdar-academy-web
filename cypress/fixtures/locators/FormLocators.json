@@ -1,0 +1,11 @@
+{
+    "title" : ".main-header",
+    "inpFirstName" : "#firstName",
+    "inpLastName" : "#lastName",
+    "inpEmail" : "#userEmail",
+    "btnOtherGender" : "#genterWrapper > .col-md-9 > :nth-child(3) > .custom-control-label",
+    "inpMobile" : "#userNumber",
+    "btnSubmit" : "#submit",
+    "modalEnvioOk" : "#example-modal-sizes-title-lg"
+    
+} 

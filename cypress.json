@@ -1,0 +1,17 @@
+{
+  "baseUrl": "https://demoqa.com",
+  "chromeWebSecurity": false,
+  "videos":false,
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportdir": "cypress/report/mochawesome-report",
+    "overwrite": false,
+    "html": true,
+    "json": false,
+    "timestamp": "mmddyyyy_HHMMss"
+  },
+  "testFiles": "**/*.feature",
+  "projectId": "uy372e",
+    "viewportWidth": 1500,
+    "viewportHeight": 800
+}

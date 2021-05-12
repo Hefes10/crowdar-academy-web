@@ -1,0 +1,7 @@
+{
+    "bookStoreTitle" : "//div[@class='main-header']",
+    "bookStoreLibro1" : ".rt-tbody > div:nth-of-type(1) a",
+    "addNewRecordButton" : ".text-right > #addNewRecordButton",
+    "btnProfile" : ":nth-child(6) > .element-list > .menu-list > #item-3"
+    
+} 

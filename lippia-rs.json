@@ -1,0 +1,8 @@
+{
+    "project": {
+        "projectName": "Crowdar Academy - Offtopic Cypress",
+        "reportName": "Test QADEMO UI"
+    },
+    "api": "http://vps2.crowdaronline.com:8085",
+    "reportPath" : "/cypress/results/lippia-reporter.json"
+}
